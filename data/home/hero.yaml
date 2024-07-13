@@ -1,0 +1,16 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "Communicate complexity with **clarity!**"
+  text: "Welcome to Oregano Solutions! Your one-stop destination for all your technical documentation, translation, and RPA solution needs.
+We are a leading provider of top-notch services that cater to businesses of all sizes and industries."
+
+  buttonPrimary:
+    label: "How we work"
+    url: "#"
+
+  buttonSecondary:
+    label: "Let's talk"
+    url: ""
+
